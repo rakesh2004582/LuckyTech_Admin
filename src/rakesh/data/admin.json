@@ -1,0 +1,25 @@
+{
+  "admins": [
+    {
+      "adminEmail": "admin1@example.com",
+      "adminPassword": "admin123",
+      "adminRole": "LuckyTech Admin",
+      "adminName": "Rakesh Kumar",
+      "adminImage": "https://avatars.githubusercontent.com/u/176567013?v=4"
+    },
+    {
+      "adminEmail": "admin2@example.com",
+      "adminPassword": "admin456",
+      "adminRole": "LuckyTech Manager",
+      "adminName": "Anita Singh",
+      "adminImage": "https://i.pinimg.com/736x/8c/11/dd/8c11dd4a7110a437722370c4663f80ec.jpg"
+    },
+    {
+      "adminEmail": "admin3@example.com",
+      "adminPassword": "admin789",
+      "adminRole": "LuckyTech Super Admin",
+      "adminName": "Vikram Patel",
+      "adminImage": "https://example.com/images/vikram_patel.png"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "category": "Basic Computer Courses",
+      "course_name": "Basic Computer Fundamentals",
+      "duration_months": 3,
+      "total_fees": 4500,
+      "monthly_fees": 1500,
+      "topics": "Computer Basics, Windows, MS Office, Internet"
+    },
+    {
+      "category": "Intermediate IT Courses",
+      "course_name": "Web Designing",
+      "duration_months": 5,
+      "total_fees": 20000,
+      "monthly_fees": 4000,
+      "topics": "HTML, CSS, JavaScript, Bootstrap"
+    },
+    {
+      "category": "Advanced IT Courses",
+      "course_name": "Java Full Stack Development",
+      "duration_months": 8,
+      "total_fees": 55000,
+      "monthly_fees": 6875,
+      "topics": "Java, Spring Boot, Hibernate, MySQL"
+    },
+    {
+      "category": "Advanced IT Courses",
+      "course_name": "DevOps Engineer (Basic to Advanced)",
+      "duration_months": 6,
+      "total_fees": 48000,
+      "monthly_fees": 8000,
+      "topics": "Linux, Git, Jenkins, Docker, Kubernetes, AWS"
+    },
+    {
+      "category": "Advanced IT Courses",
+      "course_name": "Cloud & DevOps (AWS)",
+      "duration_months": 7,
+      "total_fees": 60000,
+      "monthly_fees": 8570,
+      "topics": "AWS, Docker, Kubernetes, Terraform"
+    },
+    {
+      "category": "Advanced IT Courses",
+      "course_name": "Cloud & DevOps (AWS)",
+      "duration_months": 7,
+      "total_fees": 60000,
+      "monthly_fees": 8570,
+      "topics": "AWS, Docker, Kubernetes, Terraform"
+    }
+  ]
+}

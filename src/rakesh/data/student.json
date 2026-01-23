@@ -1,0 +1,104 @@
+{
+  "students": [
+    {
+      "id": "ST001",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@gmail.com",
+      "phone": "9876543210",
+      "course": "Basic Computer Fundamentals",
+      "enrollmentDate": "2025-01-05",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=R"
+    },
+    {
+      "id": "ST002",
+      "name": "Priya Verma",
+      "email": "priya.verma@gmail.com",
+      "phone": "9876543211",
+      "course": "Web Designing",
+      "enrollmentDate": "2025-01-08",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=P"
+    },
+    {
+      "id": "ST003",
+      "name": "Amit Kumar",
+      "email": "amit.kumar@gmail.com",
+      "phone": "9876543212",
+      "course": "Java Full Stack Development",
+      "enrollmentDate": "2025-01-10",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=A"
+    },
+    {
+      "id": "ST004",
+      "name": "Neha Singh",
+      "email": "neha.singh@gmail.com",
+      "phone": "9876543213",
+      "course": "DevOps Engineer (Basic to Advanced)",
+      "enrollmentDate": "2025-01-12",
+      "status": "Pending",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=N"
+    },
+    {
+      "id": "ST005",
+      "name": "Rohit Yadav",
+      "email": "rohit.yadav@gmail.com",
+      "phone": "9876543214",
+      "course": "Cloud & DevOps (AWS)",
+      "enrollmentDate": "2025-01-14",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=R"
+    },
+    {
+      "id": "ST006",
+      "name": "Anjali Gupta",
+      "email": "anjali.gupta@gmail.com",
+      "phone": "9876543215",
+      "course": "Web Designing",
+      "enrollmentDate": "2025-01-15",
+      "status": "Inactive",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=A"
+    },
+    {
+      "id": "ST007",
+      "name": "Suresh Patel",
+      "email": "suresh.patel@gmail.com",
+      "phone": "9876543216",
+      "course": "Basic Computer Fundamentals",
+      "enrollmentDate": "2025-01-18",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=S"
+    },
+    {
+      "id": "ST008",
+      "name": "Kavita Joshi",
+      "email": "kavita.joshi@gmail.com",
+      "phone": "9876543217",
+      "course": "Java Full Stack Development",
+      "enrollmentDate": "2025-01-20",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=K"
+    },
+    {
+      "id": "ST009",
+      "name": "Manish Tiwari",
+      "email": "manish.tiwari@gmail.com",
+      "phone": "9876543218",
+      "course": "DevOps Engineer (Basic to Advanced)",
+      "enrollmentDate": "2025-01-22",
+      "status": "Pending",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=M"
+    },
+    {
+      "id": "ST010",
+      "name": "Pooja Mishra",
+      "email": "pooja.mishra@gmail.com",
+      "phone": "9876543219",
+      "course": "Cloud & DevOps (AWS)",
+      "enrollmentDate": "2025-01-25",
+      "status": "Active",
+      "avatar": "https://placehold.co/40x40/3b82f6/ffffff?text=P"
+    }
+  ]
+}
